@@ -62,3 +62,7 @@ Public resource index for [Traffic Creator](https://traffic-creator.com/), a GA4
 - [Traffic testing glossary](https://martinfreiwa.github.io/traffic-creator-resources/guides/traffic-testing-glossary.html)
 - [GA4-visible sessions explained](https://martinfreiwa.github.io/traffic-creator-resources/guides/ga4-visible-sessions.html)
 - [Traffic Creator resource index](https://martinfreiwa.github.io/traffic-creator-resources/guides/traffic-creator-resource-index.html)
+
+## Brand assets
+
+- [Traffic Creator LinkedIn assets](https://martinfreiwa.github.io/traffic-creator-resources/linkedin-assets.html)
